@@ -1,0 +1,244 @@
+.class0{
+    border: 1px solid white;
+    text-align: center;
+    background-image: linear-gradient(90deg, red,green, yellow);  
+}
+.class1{
+    background-color: skyblue;
+    text-decoration: underline;
+}
+.class2{
+    margin-left: 410px;
+    border: 4px solid brown;
+    border-radius: 7px;
+    background-color: gray;
+    width: 777px;
+    height: 78px;
+    margin-top: -29px;
+    list-style-position: outside;
+
+}
+.class3{
+   margin-left: 300px;
+
+
+} 
+.class4{
+    border: 9px solid green;
+    border-radius: 25px;
+    width: 1503px;
+    height: 228px;
+}
+.class6{
+    margin-top: 0px;
+    border-radius: 17px;
+    width: 391px;
+    padding-top: 8px;
+    height: 91px;
+    border: 8px solid brown;
+    background-color: aqua;
+    margin-left: 57px;
+}
+.class7{
+    border-radius: 17px;
+    width: 391px;
+    padding-top: 8px;
+    height: 91px;
+    border: 8px solid brown;
+    background-color: aqua;
+    margin-left: 545px;
+    margin-top: -132px;
+}
+.class8{
+    border-radius: 17px;
+    width: 391px;
+    padding-top: 8px;
+    height: 91px;
+    border: 8px solid brown;
+    background-color: aqua;
+    margin-left: 1038px;
+    margin-top: -132px;
+
+}
+.class9{
+    margin-top: -18px;
+    border-radius: 17px;
+    width: 391px;
+    padding-top: 10px;
+    height: 91px;
+    border: 8px solid brown;
+    background-color: aqua;
+    margin-left: 547px;
+}.class11{
+    background-image: linear-gradient(90deg,red,yellow,red);
+    text-decoration-color: red;
+    text-decoration: underline;
+    margin-top: 0px;
+    text-align: center;
+    height: 32px;
+    text-decoration-color: red;
+    font-size: large;
+    font-weight: 600;
+}
+.class12 {
+    border: 2px solid brown;
+    border-radius: 1px;
+    height: 238px;
+    width: 1490px;
+    background-image: radial-gradient(blue,green);
+}
+.class13{
+    border-radius: 15px;
+    border: 2px solid red;
+    background-color: yellow;
+    width: 210px;
+    text-align: center;
+    height: 134px;
+    margin-left: 74px;
+    margin-top: 37px;
+    font-size: larger;
+    font-weight: 600;
+    line-height: 31px;
+    padding: 21px 1px 1px 17px;
+    text-decoration:underline;
+    text-decoration-color: red;
+}
+.class14{ 
+    border-radius: 15px;
+    border: 2px solid red;
+    background-color: yellow;
+    width: 210px;
+    text-align: center;
+    height: 134px;
+    margin-left: 413px;
+    margin-top: -160px;
+    font-size: larger;
+    font-weight: 600;
+    line-height: 31px;
+    text-decoration:underline;
+    text-decoration-color: red;
+    padding: 21px 1px 1px 17px;
+
+}
+.class15{
+    border-radius: 15px;
+    border: 2px solid red;
+    background-color: yellow;
+    width: 210px;
+    text-align: center;
+    height: 134px;
+    margin-left: 791px;
+    margin-top: -162px;
+    font-size: larger;
+    font-weight: 600;
+    line-height: 31px;
+    padding: 21px 1px 1px 17px;
+    text-decoration:underline;
+    text-decoration-color: red;
+}
+.class16{
+    border-radius: 15px;
+    border: 2px solid red;
+    background-color: yellow;
+    width: 210px;
+    text-align: center;
+    height: 134px;
+    margin-left: 1144px;
+    margin-top: -162px;
+    font-size: larger;
+    font-weight: 600;
+    line-height: 31px;
+    padding: 21px 1px 1px 17px;
+    text-decoration:underline;
+    text-decoration-color: red;
+}
+.class17{
+    border: 2px solid green;
+    border-radius: 4px;
+    height: 429px;
+    width: 1496px;
+}
+.class18{
+    border-radius: 1px;
+    border: 1px solid white;
+    background-color: red;
+    height: 36px;
+    font-size: x-large;
+    color: white;
+    text-align: center;
+    font-weight: 600;
+}
+.class19{
+    border: 1px solid white;
+    border-radius: 1px;
+    width: 378px;
+    height: 59px;
+    margin: 0px;
+    background-color: green;
+    text-align: center;
+    padding-top: 15px;
+    color: white;
+    font-size: larger;
+    font-weight: bolder;
+}
+.class20{
+    border: 1px solid white;
+    border-radius: 1px;
+    width: 378px;
+    height: 59px;
+    text-align: center;
+    padding-top: 15px;
+    margin-left: 409px;
+    color: white;
+    margin-top: -34px;
+    font-size: x-large;
+    font-weight: bolder;
+    background-color: purple;
+}
+.class21{
+    border: 1px solid white;
+    border-radius: 1px;
+    width: 378px;
+    height: 59px;
+    text-align: center;
+    padding-top: 15px;
+    margin-left: 819px;
+    color: white;
+    margin-top: -109px;
+    font-size: large;
+    font-weight: bolder;
+    background-color: blue;
+}
+.class24{
+    border-radius: 1px;
+    border: 3px solid white;
+    background-color: orange;
+    color: white;
+    height: 129px;
+    margin: -181px 292px 40px 0px;
+}
+.class25{
+    border: 1px solid white;
+    background-color: skyblue;
+    border-radius: 0px;
+    margin-top: -9px;
+    height: 38px;
+    font-size: x-large;
+    text-align: center;
+    font-weight: bolder;
+}
+.class23{
+    margin-left: 1362px;
+    border: 2px solid white;
+    border-radius: 3px;
+    background-color: black;
+    height: 221px;
+    width: 77px;
+    font-size: larger;
+    font-weight: 500;
+    color: white;
+}
+ .classa{
+    text-decoration: underline;
+    text-decoration-color: white;
+ }
