@@ -24,18 +24,18 @@
 
 } 
 .class4{
-    border: 9px solid green;
+    border: 3px solid green;
     border-radius: 25px;
     width: 1503px;
-    height: 228px;
+    height: 212px;
 }
 .class6{
-    margin-top: 0px;
+    margin-top: -1px;
     border-radius: 17px;
     width: 391px;
     padding-top: 8px;
     height: 91px;
-    border: 8px solid brown;
+    border: 3px solid brown;
     background-color: aqua;
     margin-left: 57px;
 }
@@ -44,29 +44,29 @@
     width: 391px;
     padding-top: 8px;
     height: 91px;
-    border: 8px solid brown;
+    border: 3px solid brown;
     background-color: aqua;
     margin-left: 545px;
-    margin-top: -132px;
+    margin-top: -122px;
 }
 .class8{
     border-radius: 17px;
     width: 391px;
     padding-top: 8px;
     height: 91px;
-    border: 8px solid brown;
+    border: 3px solid brown;
     background-color: aqua;
     margin-left: 1038px;
-    margin-top: -132px;
+    margin-top: -121px;
 
 }
 .class9{
-    margin-top: -18px;
+    margin-top: -16px;
     border-radius: 17px;
     width: 391px;
     padding-top: 10px;
     height: 91px;
-    border: 8px solid brown;
+    border: 3px solid brown;
     background-color: aqua;
     margin-left: 547px;
 }.class11{
@@ -157,88 +157,81 @@
     border-radius: 4px;
     height: 429px;
     width: 1496px;
+    display: grid;
+    grid-template-columns: repeat(4,1fx) ;
+    grid-template-rows: repeat(4,1f);
+    row-gap: 10px;
+    column-gap: 10px;
+    background-color: pink;
 }
 .class18{
-    border-radius: 1px;
-    border: 1px solid white;
     background-color: red;
-    height: 36px;
-    font-size: x-large;
-    color: white;
-    text-align: center;
-    font-weight: 600;
+    height: 20px;
+    width: 800px;
+
 }
-.class19{
-    border: 1px solid white;
-    border-radius: 1px;
-    width: 378px;
-    height: 59px;
-    margin: 0px;
-    background-color: green;
-    text-align: center;
-    padding-top: 15px;
-    color: white;
-    font-size: larger;
-    font-weight: bolder;
+
+
+
+
+
+
+
+.container{
+    display: grid;
+    height: 62px;
+    width: 1500px;
+    row-gap: 10px;
+    column-gap: 10px;
+    grid-template-rows: 60% 150% 170% 50%;
+    grid-template-columns: 2fr 2fr 2fr 10%;
+    
 }
-.class20{
-    border: 1px solid white;
-    border-radius: 1px;
-    width: 378px;
-    height: 59px;
-    text-align: center;
-    padding-top: 15px;
-    margin-left: 409px;
-    color: white;
-    margin-top: -34px;
-    font-size: x-large;
-    font-weight: bolder;
-    background-color: purple;
-}
-.class21{
-    border: 1px solid white;
-    border-radius: 1px;
-    width: 378px;
-    height: 59px;
-    text-align: center;
-    padding-top: 15px;
-    margin-left: 819px;
-    color: white;
-    margin-top: -109px;
-    font-size: large;
-    font-weight: bolder;
-    background-color: blue;
-}
-.class24{
-    border-radius: 1px;
-    border: 3px solid white;
-    background-color: orange;
-    color: white;
-    height: 129px;
-    margin: -181px 292px 40px 0px;
-}
-.class25{
-    border: 1px solid white;
-    background-color: skyblue;
-    border-radius: 0px;
-    margin-top: -9px;
-    height: 38px;
-    font-size: x-large;
-    text-align: center;
-    font-weight: bolder;
-}
-.class23{
-    margin-left: 1362px;
-    border: 2px solid white;
-    border-radius: 3px;
-    background-color: black;
-    height: 221px;
-    width: 77px;
-    font-size: larger;
-    font-weight: 500;
-    color: white;
-}
- .classa{
+
+.classa{
     text-decoration: underline;
     text-decoration-color: white;
- }
+}
+
+.child1{
+    background-color: pink;
+    grid-column: 1/5;
+    color: white;
+    font-size: larger;
+    text-align: center;
+}
+.child2{
+    background-color: skyblue;
+    text-align: center;
+    padding-top: 33px;
+    font-size: larger;
+    padding-right: 30px;
+}
+.child3{
+    background-color: blue;
+    padding-top: 40px;
+    padding-left: 84px;
+    font-size: larger;
+}
+.child4{
+    background-color: red;
+    padding-top: 19px;
+    font-size: large;
+}
+.child5{
+    background-color: brown;
+    grid-row: 2/4;
+    grid-column: 4/4;
+    color: white;
+    font-size: large;
+}
+.child6{
+ background-color: yellow;
+ grid-column: 1/4;
+}
+.child7{
+    background-color: tomato;
+    grid-column: 1/5;
+    text-align: center;
+    font-size: larger;
+}
